@@ -1,0 +1,3 @@
+﻿# Screenshots
+
+Add project screenshots to this folder.
