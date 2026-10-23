@@ -27,6 +27,17 @@ npm run dev
 
 Open the local URL Vite prints (usually `http://localhost:5173`).
 
+## App Demo Images 
+
+![app image](https://github.com/Tanmay1112004/Neon-Rush/blob/main/screenshots/Screenshot%202026-10-23%20183021.png)
+
+![app image](https://github.com/Tanmay1112004/Neon-Rush/blob/main/screenshots/Screenshot%202026-10-23%20183051.png)
+
+![app image](https://github.com/Tanmay1112004/Neon-Rush/blob/main/screenshots/Screenshot%202026-10-23%20183113.png)
+
+![app image](https://github.com/Tanmay1112004/Neon-Rush/blob/main/screenshots/Screenshot%202026-10-23%20183150.png)
+
+
 ## Controls
 
 - `W A S D` or arrow keys: move
